@@ -1,5 +1,3 @@
-package labActivity;
-
 import java.util.Scanner;
 
 public class IntArray {
